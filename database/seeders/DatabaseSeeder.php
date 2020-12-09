@@ -27,8 +27,8 @@ class DatabaseSeeder extends Seeder
         \App\Models\Subcategory::create([ 'name'=>'lenovo', 'category_id'=>1 ]);
         \App\Models\Product::create([ 
             'name'=>'hp lappy',
-            'image'=>'product/prod.png',
-            'flip_image'=>'product/prod.png',
+            'image'=>'product/p1.jpeg',
+            'flip_image'=>'product/p2.jpeg',
             'price'=>rand(700,1000),
             'description'=>'this is product description',
             'additional_info'=>'additional info',
@@ -38,8 +38,8 @@ class DatabaseSeeder extends Seeder
          ]);
         \App\Models\Product::create([ 
             'name'=>' lappy',
-            'image'=>'product/prod.png',
-            'flip_image'=>'product/prod.png',
+            'image'=>'product/p3.jpeg',
+            'flip_image'=>'product/p4.jpeg',
             'price'=>rand(700,1000),
             'description'=>'this is product description',
             'additional_info'=>'additional info',
