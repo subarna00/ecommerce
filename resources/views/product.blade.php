@@ -8,9 +8,9 @@
                 <div class="top-right-strip row">
                     <!--/left-->
                     <div class="top-hny-left-content col-lg-6 pl-lg-0">
-                        <h6>Upto 30% off on All styles , <a href="#" target="_blank"> Click here for <span
+                        <!-- <h6>Upto 30% off on All styles , <a href="#" target="_blank"> Click here for <span
                                     class="fa fa-hand-o-right hand-icon" aria-hidden="true"></span> <span
-                                    class="hignlaite">More details</span></a></h6>
+                                    class="hignlaite">More details</span></a></h6> -->
                     </div>
                     <!--//left-->
                     <!--/right-->
@@ -96,7 +96,7 @@
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container-fluid serarc-fluid">
                     <a class="navbar-brand" href="index.html">
-                        Spry<span class="lohny">S</span>tore</a>
+                        Eco<span class="lohny">M</span>merce</a>
                     <!-- if logo is image enable this   
 							<a class="navbar-brand" href="#index.html">
 								<img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
@@ -273,8 +273,7 @@
 </section>
 <!-- //content-6-section -->
 
-<section class="w3l-content-w-photo-6">
-    <!-- /specification-6-->
+<!-- <section class="w3l-content-w-photo-6">
     <div class="content-photo-6-mian py-5">
         <div class="container py-lg-5">
             <div class="align-photo-6-inf-cols row">
@@ -292,17 +291,14 @@
             </div>
         </div>
     </div>
-</section>
-<!-- //specification-6-->
+</section> -->
 
-<section class="w3l-video-6">
-    <!-- /video-6-->
+<!-- <section class="w3l-video-6">
     <div class="video-66-info">
         <div class="container-fluid">
             <div class="video-grids-info row">
                 <div class="video-gd-right col-lg-8">
                     <div class="video-inner text-center">
-                        <!--popup-->
                         <a class="play-button btn popup-with-zoom-anim" href="#small-dialog">
                             <span class="fa fa-play" aria-hidden="true"></span>
                         </a>
@@ -312,7 +308,6 @@
                                     allow="autoplay; fullscreen" allowfullscreen></iframe>
                             </div>
                         </div>
-                        <!--//popup-->
                     </div>
                 </div>
                 <div class="video-gd-left col-lg-4 p-lg-5 p-4">
@@ -329,7 +324,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- //video-6-->
 <section class="w3l-ecommerce-main">
     <!-- /products-->
@@ -379,8 +374,7 @@
     </div>
 </section>
 <!-- //products-->
-<section class="w3l-content-5">
-    <!-- /content-6-section -->
+<!-- <section class="w3l-content-5">
     <div class="content-5-main">
         <div class="container">
             <div class="content-info-in row">
@@ -401,10 +395,9 @@
 
         </div>
     </div>
-</section>
+</section> -->
 <!-- //content-6-section -->
-<section class="w3l-post-grids-6">
-    <!-- /post-grids-->
+<!-- <section class="w3l-post-grids-6">
     <div class="post-6-mian py-5">
         <div class="container py-lg-5">
             <h3 class="hny-title text-center mb-0 ">Latest Blog <span>Posts</span></h3>
@@ -472,11 +465,10 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- //post-grids-->
-<section class="w3l-customers-sec-6">
+<!-- <section class="w3l-customers-sec-6">
     <div class="customers-sec-6-cintent py-5">
-        <!-- /customers-->
         <div class="container py-lg-5">
             <h3 class="hny-title text-center mb-0 ">Customers <span>Love</span></h3>
             <p class="mb-5 text-center">What People Say</p>
@@ -488,7 +480,6 @@
                             <li data-target="#customerhnyCarousel" data-slide-to="0" class="active"></li>
                             <li data-target="#customerhnyCarousel" data-slide-to="1"></li>
                         </ol>
-                        <!-- Carousel items -->
                         <div class="carousel-inner">
 
                             <div class="carousel-item active">
@@ -554,9 +545,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <!--.row-->
                             </div>
-                            <!--.item-->
 
                             <div class="carousel-item">
                                 <div class="row">
@@ -621,23 +610,18 @@
                                         </div>
                                     </div>
                                 </div>
-                                <!--.row-->
                             </div>
-                            <!--.item-->
 
                         </div>
-                        <!--.carousel-inner-->
                     </div>
-                    <!--.Carousel-->
 
                 </div>
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- //customers-->
-<section class="w3l-subscription-6">
-    <!--/customers -->
+<!-- <section class="w3l-subscription-6">
     <div class="subscription-infhny">
         <div class="container-fluid">
 
@@ -663,24 +647,22 @@
                 </div>
             </div>
 
-            <!--//customers -->
         </div>
-</section>
+</section> -->
 <!-- //customers-6-->
 
 
 <section class="w3l-footer-22">
-    <!-- footer-22 -->
-    <div class="footer-hny py-5">
+    <!-- <div class="footer-hny py-5">
         <div class="container py-lg-5">
             <div class="text-txt row">
                 <div class="left-side col-lg-4">
                     <h3><a class="logo-footer" href="index.html">
                             Spry<span class="lohny">S</span>tore</a></h3>
-                    <!-- if logo is image enable this   
+                    if logo is image enable this   
                                     <a class="navbar-brand" href="#index.html">
                                         <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
-                                    </a> -->
+                                    </a>
                     <p>Lorem ipsum dolor sit amet,Ea consequuntur illum facere aperiam sequi optio consectetur.Vivamus
                         a ligula quam. Ut blandit eu leo non suscipit. </p>
                     <ul class="social-footerhny mt-lg-5 mt-4">
@@ -761,7 +743,7 @@
                 </button>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- //titels-5 -->
     <!-- move top -->
 
